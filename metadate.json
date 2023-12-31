@@ -1,0 +1,30 @@
+{
+    "image": "ipfs://QmYXUQnFcovaA6oDdpdeZp68aviHiuMB93Xg7L38fSLbP1",
+    "attributes": [
+      {
+        "value": "PEPE",
+        "trait_type": "Person"
+      },
+      {
+        "value": "GeForce RTX 4090",
+        "trait_type": "GPU"
+      },
+      {
+        "value": "Red",
+        "trait_type": "Heart"
+      },
+      {
+        "value": "Some color",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Iron Tester",
+        "trait_type": "Quai"
+      },
+      {
+        "value": "Love Quai♥",
+        "trait_type": "Eyes"
+      }
+    ]
+  }
+
